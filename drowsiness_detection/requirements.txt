@@ -1,0 +1,6 @@
+opencv-python
+dlib
+pygobject
+imutils
+playsound
+scipy
